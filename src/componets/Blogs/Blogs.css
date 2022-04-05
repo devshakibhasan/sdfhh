@@ -1,0 +1,13 @@
+.title {
+    height: 60px;
+    background-color: rgb(127, 210, 116);
+    color: rgb(51, 35, 35);
+    font-weight: bold;
+  width: 100%;
+
+}
+.answer {
+    text-align: justify;
+    text-justify: inter-word;
+  
+}
